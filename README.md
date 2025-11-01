@@ -10,3 +10,8 @@ The input is error free it will dispaly "Successfully LogIn".
 
 ## Tech Used
 HTML | CSS | JavaScript.
+
+## Output Preview 💻
+- Here's the preview of the login form.
+
+![LogIn Form Project Output](./output.png)
